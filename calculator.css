@@ -1,0 +1,23 @@
+
+   .button{
+    position: relative;
+    top: 40px;
+    left: 5px;
+    min-height: 160px;
+    font-size: calc(10px + 2vmin);
+    width: 10%;
+    border: 2px solid crimson;
+    background: lightGrey;
+}
+
+.button :hover{
+  background: none;
+  cursor: pointer;
+}
+#key{
+  position: relative;
+  left: 17px;
+}
+  
+ 
+  
